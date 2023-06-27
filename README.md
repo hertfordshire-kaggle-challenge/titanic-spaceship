@@ -13,7 +13,6 @@ Getting Started
 To get started with the project:
 
 Clone the repository to your local machine using git clone.
-Install the necessary Python packages using pip install -r requirements.txt.
 Navigate to the src/ directory and run the scripts in the following order: preprocessing.py, eda.py, model.py.
 Requirements
 This project requires Python 3.6+ and the following Python libraries installed:
